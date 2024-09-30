@@ -1,6 +1,5 @@
-# Air Passenger Data - Time Series Analysis - SARIMAX
+# Air Passenger Data - Time Series Analysis
 
-**Complete Video Tutorial:** https://youtu.be/H6UEywvWpn0
 
 # Dataset Information
 
@@ -20,8 +19,3 @@ Passengers - Total number of passengers travelled on that particular month.
 <li>seaborn
 <li>scikit-learn
 <li>statsmodels
-
-# Algorithms
-
-<li>SARIMAX
- 
